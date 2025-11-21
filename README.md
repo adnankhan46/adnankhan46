@@ -1,4 +1,7 @@
-### Interested in programming
+### Interested in programming | tinkerer
+
+- i like building things <br/>
+[Portfolio](https://ak93.vercel.app)
 <!--
 **adnankhan46/adnankhan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
