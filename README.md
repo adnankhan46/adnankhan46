@@ -2,7 +2,7 @@
 <h3 align="left">Full Stack, Software Developer | Tinkerer</h3>
 
 <p align="left">
-  <a href="https://ak93.vercel.ap" target="_blank">portfolio</a> •
+  <a href="https://ak93.vercel.app" target="_blank">portfolio</a> •
   <a href="https://x.com/adnankhan_93" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/adnankhan/" target="_blank">linkedin</a> •
   <a href="https://github.com/adnankhan46" target="_blank">github</a> •
