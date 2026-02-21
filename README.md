@@ -1,7 +1,7 @@
-<h1 align="center">Adnan Khan</h1>
-<h3 align="center">Full Stack, Software Developer | Tinkerer</h3>
+<h1 align="left">Adnan Khan</h1>
+<h3 align="left">Full Stack, Software Developer | Tinkerer</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://ak93.vercel.ap" target="_blank">portfolio</a> •
   <a href="https://x.com/adnankhan_93" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/adnankhan/" target="_blank">linkedin</a> •
