@@ -12,6 +12,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=adnankhan46&color=brightgreen&style=flat-square" alt="Profile views" />
 </div>
+
+
+## Current Projects
+
+- **[Campusx](https://github.com/adnankhan46/campusx)** - will update, [view](https://campusx-1kz4.onrender.com)
+- **[CommitApp](https://getcommit.vercel.app)** - will update tommorow, [backend](https://github.com/adnankhan46/commit-backend), [react-native](https://github.com/adnankhan46/commit-app)
+- **[Y-Axis]()** - chrome extension, approval pending
 <!--
 **adnankhan46/adnankhan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
