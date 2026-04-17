@@ -16,9 +16,10 @@
 
 ## Current Projects
 
-- **[Campusx](https://github.com/adnankhan46/campusx)** - incentivized opportunity platform, [view](https://campusx-1kz4.onrender.com)
-- **[CommitApp](https://getcommit.vercel.app)** - get profit from your friends failures, [backend](https://github.com/adnankhan46/commit-backend), [react-native](https://github.com/adnankhan46/commit-app)
-- **[Y-Axis]()** - chrome extension, approval pending
+- **[Campusx](https://github.com/adnankhan46/campusx)** - Incentivized opportunity platform, that connects students with companies offering paid micro tasks. [view](https://campusx-1kz4.onrender.com)
+- **[CommitApp](https://getcommit.vercel.app)** - Get profit from your friends failures, [backend](https://github.com/adnankhan46/commit-backend), [react-native frontend](https://github.com/adnankhan46/commit-app). [view](https://getcommit.vercel.app)
+- **[Y-Axis](https://github.com/adnankhan46/yaxis)** - Chrome extension, approval pending
+- **[CollabGPT](https://github.com/adnankhan46/collab-gpt-rag)** - Multi user RAG app where people can chat collaboratively with multiple PDFs in a shared room. [view](collab-gpt-rag-vercel.app)
 <!--
 **adnankhan46/adnankhan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
